@@ -1,0 +1,33 @@
+site:
+  title: "OpenShift AI & Caikit"
+  url: https://redhat-scholars.github.io/course-template
+  start_page: modules::index.adoc
+
+ui:
+  bundle:
+    url: https://github.com/tonykay/demo-gpte-classroom-ui/raw/main/releases/download/v0.0.2/ui-bundle.zip
+    snapshot: true
+  supplemental_files:
+    - path: ./content/supplemental-ui
+    - path: .nojekyll
+    - path: ui.yml
+      contents: "static_files: [ .nojekyll ]"
+
+content:
+  sources:
+    - url: ./
+      start_path: content
+    
+asciidoc:
+  attributes:
+    page-pagination: true
+    deliverable: workshop
+    productname-long: Red Hat OpenShift AI
+    productname-short: OpenShift AI
+    context: ''      
+
+output:
+  dir: ./content/www
+
+runtime:
+  cache_dir: ./content/.cache/antora

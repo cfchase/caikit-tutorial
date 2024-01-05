@@ -1,0 +1,21 @@
+name: modules
+title: Navigation
+version: master
+nav:
+  - modules/ROOT/nav.adoc
+
+asciidoc:
+  attributes:
+    release-version: main
+    page-pagination: true
+    experimental:
+    numbered:
+    lab_name: "OpenShift AI Test Drive"
+    guid: my-guid
+    ssh_user: lab-user
+    ssh_password: lab-user
+    ssh_command: ssh lab-user@bastion.{guid}.example.opentlc.com
+
+  extensions:
+    - ./content/lib/tab-block.js
+    - ./content/lib/remote-include-processor.js

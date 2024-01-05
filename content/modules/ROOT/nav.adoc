@@ -1,0 +1,15 @@
+* xref:index.adoc[Introduction]
+
+* 1. Project Setup
+** xref:setup:navigating-to-the-dashboard.adoc[1. The Dashboard]
+** xref:setup:setting-up-your-data-science-project.adoc[2. Data Science Projects]
+** xref:setup:running-a-script-to-install-storage.adoc[3. Storage Data Connections]
+
+* xref:llm:index.adoc[2. OpenShift AI & Caikit]
+// ** 1. Serving an LLM
+** xref:llm:caikit-conversion.adoc[1. Caikit Conversion]
+** xref:llm:saving-caikit-model.adoc[2. Saving the Model]
+** xref:llm:deploying-caikit-model.adoc[3. Deploy the Model]
+** xref:llm:testing-the-model-api.adoc[4. Using the API]
+// *** xref:llm:[5. Connecting a UI]
+
