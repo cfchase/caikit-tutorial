@@ -7,9 +7,11 @@
 
 * xref:llm:index.adoc[2. OpenShift AI & Caikit]
 // ** 1. Serving an LLM
-** xref:llm:caikit-conversion.adoc[1. Caikit Conversion]
-** xref:llm:saving-caikit-model.adoc[2. Saving the Model]
-** xref:llm:deploying-caikit-model.adoc[3. Deploy the Model]
-** xref:llm:testing-the-model-api.adoc[4. Using the API]
+** xref:llm:creating-a-workbench.adoc[1. Create a Workbench]
+** xref:llm:importing-files-into-jupyter.adoc[2. Get the Code]
+** xref:llm:caikit-conversion.adoc[3. Caikit Conversion]
+** xref:llm:saving-caikit-model.adoc[4. Saving the Model]
+** xref:llm:deploying-caikit-model.adoc[5. Deploy the Model]
+** xref:llm:testing-the-model-api.adoc[6. Using the API]
 // *** xref:llm:[5. Connecting a UI]
 
