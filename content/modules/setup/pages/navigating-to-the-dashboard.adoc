@@ -24,7 +24,4 @@ image::projects/ds-console-ocp-tile.png[OCP console link]
 
 For now, stay in the {productname-short} dashboard.
 
-=== Next Step
-
-xref:setting-up-your-data-science-project.adoc[Setting up your data science project]
 

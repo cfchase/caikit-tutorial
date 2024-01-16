@@ -31,9 +31,3 @@ Check the *Pipelines* page. Pipelines are enabled when the *Pipeline server acti
 
 image::projects/ds-project-create-pipeline-server-complete.png[Create pipeline server complete]
 
-=== Next Step
-
-xref:fraud-detection:running-a-pipeline-generated-from-python-code.adoc[Running a data science pipeline generated from Python code]
-
-
-

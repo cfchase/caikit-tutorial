@@ -54,7 +54,3 @@ Check to see that your data connections are listed in the project.
 
 image::projects/ds-project-dc-list.png[List of project data connections]
 
-
-=== Next Step
-
-xref:fraud-detection:creating-a-workbench.adoc[Creating a workbench]
