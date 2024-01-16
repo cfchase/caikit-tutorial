@@ -21,4 +21,3 @@ Using an LLM Google's https://huggingface.co/google/flan-t5-small[flan-t5-small]
 * Wrap the LLM using Caikit for easy serving
 * Serve the model using Caikit
 
-If you're ready, xref:setup:navigating-to-the-dashboard.adoc[start the {deliverable}!]
